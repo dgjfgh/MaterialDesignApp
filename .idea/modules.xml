@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MaterialDesignApp.iml" filepath="$PROJECT_DIR$/MaterialDesignApp.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\pc\Desktop\MaterialDesignApp\app\app.iml" filepath="C:\Users\pc\Desktop\MaterialDesignApp\app\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/svglib/svglib.iml" filepath="$PROJECT_DIR$/svglib/svglib.iml" />
     </modules>
   </component>
 </project>
